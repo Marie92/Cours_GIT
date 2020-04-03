@@ -11,7 +11,7 @@ public class Utilisateur {
 	
 	private int id;
 	private String nom;
-	
+	private String prenom; 
 	
 	/*==================================Constructeur=============================================*/
 	
